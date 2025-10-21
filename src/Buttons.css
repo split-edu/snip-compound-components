@@ -7,3 +7,16 @@
   max-width: 300px;
   margin: 0 auto;
 }
+
+button,
+button:focus {
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+button:active,
+button:hover {
+  background-color: whitesmoke;
+  border: none;
+  outline: none;
+}
