@@ -1,5 +1,6 @@
 {
   "name": "snippets-mod02-compound-components",
+  "description": "Code snippet for compound React component",
   "private": true,
   "version": "0.0.0",
   "type": "module",
